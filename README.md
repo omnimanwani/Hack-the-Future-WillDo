@@ -1,6 +1,6 @@
 # 🖐️ Deaf and Dumb Interactive Learning Model 🗣️
 
-This project provides a deep learning model that helps interpret sign language using MediaPipe and TensorFlow. It captures hand gestures and converts them into text, which can then be transformed into speech using gTTS (Google Text-to-Speech). 🧠💡
+This project provides a deep learning model that helps interpret sign language using MediaPipe and TensorFlow. It captures hand gestures and converts them into text, which can then be transformed into speech using gTTS (Google Text-to-Speech). 
 
 ## 🔧 Installation
 
