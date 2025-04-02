@@ -85,8 +85,8 @@ This will start a Flask server where you can interact with the model.
 The model can be deployed using Flask and Ngrok for online access.
 
 ## 👥 Authors
-- Arpita
-- Chitransh Kumar
-- Nitesh Parihar
-- Siddharth Nimbalkar
-- Omni Manwani
+- Arpita (202211005)
+- Chitransh Kumar (202211015)
+- Siddharth Nimbalkar (202211057)
+- Nitesh Parihar (202211058)
+- Omni Manwani (202211060)
